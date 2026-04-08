@@ -31,6 +31,10 @@ Running `python run_all.py` creates these folders and artifacts:
 - `notebooks/`: executed notebook.
 - `baseline_results/`: frozen pre-upgrade baseline config, split CSVs, metrics snapshot, and seed list.
 
+For a direct summary of the saved logs, checkpoints, TensorBoard files, and evaluation tables that show training artifacts are present in the repo, see:
+
+- `TRAINING_EVIDENCE.md`
+
 ## Data enrichment note
 
 The pipeline now enriches BMKG with:

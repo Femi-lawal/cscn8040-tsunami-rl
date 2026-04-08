@@ -30,3 +30,4 @@ For the operations console, Docker workflow, and testing details, see:
 - `option_a_tsunami_rl/README.md`
 - `option_a_tsunami_rl/DASHBOARD_README.md`
 - `option_a_tsunami_rl/TESTING_GUIDE.md`
+- `option_a_tsunami_rl/TRAINING_EVIDENCE.md`
