@@ -1,0 +1,7 @@
+algorithm,split,run_seed,episode_count,no_threat_event_count,potential_event_count,severe_event_count,avg_return,median_return,severe_miss_rate,false_warning_rate,avg_alert_changes,avg_invalid_actions,avg_warning_step_on_severe,avg_watch_step_on_potential,safety_score
+ppo_lstm_pure,validation,77,64,35,23,6,25.440625000000004,13.8,0.0,0.0,0.6875,0.0,4.0,4.565217391304348,25.440625000000004
+ppo_lstm_pure,test,77,70,37,25,8,25.492857142857144,13.8,0.0,0.0,1.0142857142857142,0.0,3.875,3.8,25.492857142857144
+ppo_lstm_pure,validation,88,64,35,23,6,25.737500000000004,13.8,0.0,0.0,0.6875,0.0,4.0,4.478260869565218,25.737500000000004
+ppo_lstm_pure,test,88,70,37,25,8,25.87857142857143,13.8,0.0,0.0,1.042857142857143,0.0,3.875,3.6,25.87857142857143
+ppo_lstm_pure,validation,99,64,35,23,6,25.393750000000004,13.8,0.0,0.0,0.6875,0.0,4.0,4.565217391304348,25.393750000000004
+ppo_lstm_pure,test,99,70,37,25,8,24.65714285714286,13.8,0.0,0.0,0.9714285714285714,0.0,3.875,4.2,24.65714285714286

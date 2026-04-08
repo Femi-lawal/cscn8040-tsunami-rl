@@ -1,0 +1,301 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!--<meta http-equiv='refresh' content='1800' />-->
+<title>.: Indonesia Tsunami Service Provider - InaTSP:.</title>
+<link href="css/dropdown.css" media="all" rel="stylesheet" type="text/css" />
+<link href="css/default.advanced.css" media="all" rel="stylesheet" type="text/css" />
+<link href="css/helper.css" media="all" rel="stylesheet" type="text/css" />
+<link href="templatemo_style.css" rel="stylesheet" type="text/css" />
+<link href="tab_style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js" integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw==" crossorigin=""></script>
+<link href="tab_style.css" rel="stylesheet" type="text/css" />
+<script language="javascript1.2">
+ function konfirm_dsm(tanggal,jam,ketlat,ketlon,mag,dalam,loc,bullno){     
+	 if(confirm("Are you sure will disseminate this information with parameters below: \n OT : "+tanggal+" "+jam+" UTC\n Lat: "+ketlat+"\n Lon: "+ketlon+"\n Mag: "+mag+"\n Depth: "+dalam+" Km \n Location: "+loc+"\n Bulletin No: "+bullno))
+	 {
+	 	return true;
+	 }
+	 else
+	 {
+	 	return false;
+	 }
+ }
+
+ function konfirm_unpub(tanggal,jam,ketlat,ketlon,mag,dalam,loc,bullno){     
+	 if(confirm("Are you sure will unpublish this event with parameters below: \n OT : "+tanggal+" "+jam+" UTC\n Lat: "+ketlat+"\n Lon: "+ketlon+"\n Mag: "+mag+"\n Depth: "+dalam+" Km \n Location: "+loc+"\n Bulletin No: "+bullno))
+	 {
+	 	return true;
+	 }
+	 else
+	 {
+	 	return false;
+	 }
+ }
+
+ function konfirm_del(tanggal,jam,ketlat,ketlon,mag,dalam,loc,bullno,grup){     
+	 if(confirm("Are you sure will delete this event with parameters below: \n OT : "+tanggal+" "+jam+" UTC\n Lat: "+ketlat+"\n Lon: "+ketlon+"\n Mag: "+mag+"\n Depth: "+dalam+" Km \n Location: "+loc+"\n Bulletin No: "+bullno+"\n Grup: "+grup))
+	 {
+	 	return true;
+	 }
+	 else
+	 {
+	 	return false;
+	 }
+ }
+</script>
+</head>
+<body>
+<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">  
+  <tr>
+    <td height="1" colspan="3" bgcolor="#FFFFFF"></td>
+  </tr>
+  <tr>
+    <td bgcolor="#000000">&nbsp;</td>
+    <td width="1200" bgcolor="#8a8a8a"><div align="left"><img src="images/slider/header6_gempa.jpg" width="1200" height="100" /></div></td>
+    <td bgcolor="#8a8a8a">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height=1 colspan="3" bgcolor="#ffffff"></td>
+  </tr>
+  <tr>
+    <td height=30 colspan="3" background="images/bg_menu_atas.gif"><div align="center">
+      <table width="1222" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="617"><div align="left" id="menuatas">&nbsp;&nbsp;&nbsp;&nbsp;<font class=tulisanheader>InaTEWS - Indonesia Tsunami Early Warning System</font></div></td>
+          <td width="535"><div align="center" id="menuatas2"><a href=index.php><b>Home</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=publicbull.php>Public Bulletin</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=about_inartsp.php>About InaTSP</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=seismic_a.php>Seismic Network</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=kontak.php>Contact Us</a></div></td>
+          <td width="70"><div align="center" class="conten"></div></td>
+        </tr>
+      </table>
+    </div></td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center">
+      <table width="1244" border="0" align="center" cellpadding="0" cellspacing="0">
+        
+        <tr>
+          <td height="4" background="images/menu.png"></td>
+        </tr>
+        <tr>
+          <td background="images/utama.png"><div id="templatemo_content" align="left"><font class=judulh2>Public Bulletin in Detail</font><br><br><a href=publicbull.php>&laquo; Back to the lists</a><br><br><table width=100% border=0 cellpadding=0 cellspacing=0><tr><td width=10%><font class=txt13pxarial>Magnitude </font></td><td width=90%><img src=images/9,0.png align=absmiddle></td></tr><tr><td height=8px></td></tr><tr><td><font class=txt13pxarial>Origin Time </font></td><td width=90%><font class=txt13pxarial>: 2023-10-04 04:00:00 UTC</font></td></tr><tr><td><font class=txt13pxarial>Location </font></td><td width=90%><font class=txt13pxarial>: 7.2N - 92.9E (Nicobar, India (Test IOWave-Oct-2023))</font></td></tr><tr><td><font class=txt13pxarial>Depth </font></td><td width=90%><font class=txt13pxarial>: 10 Km</font></td></tr><tr><td><font class=txt13pxarial>Bulletin </font></td><td width=90%><font class=txt13pxarial>: 14 <sup>3.12</sup> (CONFIRMED THREAT BULLETIN)</font></td></tr></table><br><br><table width=100% border=0 cellpadding=0 cellspacing=1 bgcolor=#333333><tr><td><table width=100% border=0 cellpadding=0 cellspacing=1 bgcolor=#ffffff><tr><td><div id="mapDiv" style="width: 100%; height: 500px"></div><script>var icon_norm = L.icon({iconUrl: 'generate_peta/images/epic.png', iconSize: [40, 40]});
+var icon_mw9 = L.icon({iconUrl: 'generate_peta/images/new/mw9.png', iconSize: [25, 25]});
+var icon_mw85_9 = L.icon({iconUrl: 'generate_peta/images/new/mw85-9.png', iconSize: [22, 22]});
+var icon_mw65 = L.icon({iconUrl: 'generate_peta/images/new/mw65.png', iconSize: [19, 19]});
+var icon_mwgreen = L.icon({iconUrl: 'generate_peta/images/new/circle-green-10.png', iconSize: [25, 25]});
+var lat = -1.00;var lon = 85.00;map = L.map('mapDiv').setView([lat, lon], 3);L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', { maxZoom: 18 }).addTo(map);marker = L.marker([7.2, 92.9], {icon: icon_norm}).addTo(map);marker.bindPopup("<table border=0 cellpadding=0 cellspacing=1 bgcolor=#aaaaaa><tr><td bgcolor=#dddddd><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;Magnitude&nbsp;&nbsp;</span></div></td><td bgcolor=#efefef><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;9</span></div></td></tr><tr><td bgcolor=#dddddd><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;Date</span></div></td><td bgcolor=#efefef><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;2023-10-04</span></div></td></tr><tr><td bgcolor=#dddddd><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;Time</span></div></td><td bgcolor=#efefef><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;04:00:00 UTC</span></div></td></tr><tr><td bgcolor=#dddddd><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;Latitude</span></div></td><td bgcolor=#efefef><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;7.2N</span></div></td></tr><tr><td bgcolor=#dddddd><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;Longitude </span></div></td><td bgcolor=#efefef><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;92.9E</span></div></td></tr><tr><td bgcolor=#dddddd><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;Depth&nbsp;</span></div></td><td bgcolor=#efefef><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;10 Km</span></div></td></tr><tr><td bgcolor=#dddddd><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;Remark</span></div></td><td bgcolor=#efefef><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;Nicobar, India (Test IOWave-Oct-2023)&nbsp;&nbsp;</span></div></td></tr></table>").addTo(map);</script></td></tr></table></td></tr></table><br><br><pre><font class=courier>TEST TEST TEST TEST TEST IOWave-Oct-2023  TEST TEST TEST TEST TEST TEST TEST
+TEST TEST TEST TEST TEST IOWave-Oct-2023  TEST TEST TEST TEST TEST TEST TEST
+TSP-InaTEWS-20231004-1500-014
+--------------------------------------------------------------------------------
+PUBLIC TSUNAMI BULLETIN NUMBER 14
+IOTWMS TSUNAMI SERVICE PROVIDER INDONESIA (InaTEWS-BMKG)
+issued at 1500 UTC, Oct 04, 2023
+--------------------------------------------------------------------------------
+
+... CONFIRMED TSUNAMI THREAT IN THE INDIAN OCEAN ...
+
+This bulletin applies to areas within and bordering the Indian Ocean.
+It is issued in support of the UNESCO/IOC Indian Ocean Tsunami
+Warning and Mitigation System (IOTWMS).
+
+1. EARTHQUAKE INFORMATION (updated)
+IOTWMS-TSP INDONESIA has detected an earthquake with the following details:
+
+Magnitude  : 9.0 Mwp (UPDATED)
+Depth      : 10km
+Date       : 04 Oct 2023
+Origin Time: 0400 UTC
+Latitude   : 7.20N
+Longitude  : 92.90E
+Location   : Nicobar, India
+
+2. EVALUATION
+Sea level observations have confirmed that a TSUNAMI WAS GENERATED and
+there MAY BE A THREAT TO SOME INDIAN OCEAN COUNTRIES.
+
+Maximum wave amplitudes observed so far:
+
+LOCATION            COUNTRIES     LAT    LON      TIME(UTC) DATE AMPL(m) 
+------------------------------------------------------------------------------
+Campbell Bay       INDIA          7.00N  93.93E 0429z UTC  4 Oct 2023  6.0m
+Sabang             INDONESIA      5.83N  95.33E 0430z UTC  4 Oct 2023  3.7m
+Port Blair         INDIA         11.68N  92.76E 0439z UTC  4 Oct 2023  3.6m
+DART 23227         INDIA          6.26N  88.79E 0441z UTC  4 Oct 2023  2.6m
+Nancowry           INDIA          8.05N  93.55E 0508z UTC  4 Oct 2023  8.5m
+Telukdalam         INDONESIA      0.55N  97.82E 0508z UTC  4 Oct 2023  2.0m
+Meulaboh           INDONESIA      4.13N  96.13E 0514z UTC  4 Oct 2023  9.1m
+DART 23218         INDIA         10.17N  88.50E 0516z UTC  4 Oct 2023  0.5m
+Tanahbala          INDONESIA      0.53S  98.50E 0530z UTC  4 Oct 2023  1.1m
+Ko Miang           THAILAND       8.55N  97.63E 0539z UTC  4 Oct 2023  3.3m
+Ko Taphao Noi      THAILAND       7.82N  98.42E 0541z UTC  4 Oct 2023  2.3m
+Trincomalee        SRI LANKA      8.56N  81.20E 0547z UTC  4 Oct 2023  4.8m
+Haing Gyi Kyun     MYANMAR       16.00N  94.32E 0611z UTC  4 Oct 2023  3.6m
+Enggano            INDONESIA      5.35S 102.28E 0612z UTC  4 Oct 2023  0.9m
+Padang             INDONESIA      0.95S 100.37E 0614z UTC  4 Oct 2023  0.8m
+Chennai            INDIA         13.10N  80.30E 0620z UTC  4 Oct 2023  6.1m
+Pulau Perak        MALAYSIA       5.68N  98.94E 0624z UTC  4 Oct 2023  2.5m
+Cocos Island       AUSTRALIA     12.12S  96.89E 0626z UTC  4 Oct 2023  1.2m
+Visakhapatnam      INDIA         17.68N  83.28E 0629z UTC  4 Oct 2023  4.0m
+Colombo            SRI LANKA      6.95N  79.85E 0632z UTC  4 Oct 2023  4.0m
+Seblat             INDONESIA      3.22S 101.60E 0634z UTC  4 Oct 2023  1.6m
+Christmas Island   AUSTRALIA     10.43N 105.67E 0645z UTC  4 Oct 2023  1.4m
+Sibolga            INDONESIA      1.73N  98.80E 0645z UTC  4 Oct 2023  2.8m
+Sittwe             MYANMAR       20.15N  92.90E 0646z UTC  4 Oct 2023  2.2m
+Gan                MALDIVE        0.69S  73.15E 0712z UTC  4 Oct 2023  5.6m
+Hanimadhoo         MALDIVE        6.77N  73.17E 0718z UTC  4 Oct 2023  4.6m
+Tanjung Lesung     INDONESIA      6.48S 105.66E 0719z UTC  4 Oct 2023  0.8m
+DART 23223         INDIA         17.33N  89.48E 0721z UTC  4 Oct 2023  0.5m
+Kirinda            SRI LANKA      6.20N  81.32E 0721z UTC  4 Oct 2023  4.5m
+Minicoy            INDIA          8.28N  73.05E 0724z UTC  4 Oct 2023  2.0m
+Sebesi Island      INDONESIA      5.94S 105.51E 0726z UTC  4 Oct 2023  0.7m
+Langkawi           MALAYSIA       6.42N  99.77E 0728z UTC  4 Oct 2023  1.1m
+Marina Jambu       INDONESIA      6.19S 105.84E 0729z UTC  4 Oct 2023  0.8m
+Porto Malai        MALAYSIA       6.26N  99.73E 0730z UTC  4 Oct 2023  4.4m
+Pangandaran        INDONESIA      7.75S 108.50E 0736z UTC  4 Oct 2023  0.9m
+Diego Garcia       UK             7.29S  72.39E 0739z UTC  4 Oct 2023  3.1m
+Cilacap            INDONESIA      7.75S 109.00E 0741z UTC  4 Oct 2023  1.3m
+Sadeng             INDONESIA      8.19S 110.80E 0747z UTC  4 Oct 2023  0.9m
+Pacitan            INDONESIA      8.27S 111.37E 0754z UTC  4 Oct 2023  0.9m
+Prigi              INDONESIA      8.28S 111.73E 0758z UTC  4 Oct 2023  0.8m
+Popoh              INDONESIA      8.26S 111.80E 0800z UTC  4 Oct 2023  0.8m
+Cuddalore          INDIA         11.71N  79.78E 0801z UTC  4 Oct 2023  4.3m
+Cochin             INDIA          9.96N  76.26E 0817z UTC  4 Oct 2023  2.4m
+Benoa              INDONESIA      8.77S 115.22E 0831z UTC  4 Oct 2023  0.4m
+Lembar             INDONESIA      8.73S 116.07E 0854z UTC  4 Oct 2023  0.3m
+Muncar Banyuwangi  INDONESIA      8.44S 114.35E 0855z UTC  4 Oct 2023  0.3m
+Pt.Murat           AUSTRALIA     21.82S 114.19E 0924z UTC  4 Oct 2023  1.1m
+Cape Cuvier Wharf  AUSTRALIA     24.22S 113.40E 0940z UTC  4 Oct 2023  0.7m
+Rote               INDONESIA     10.71S 123.06E 0942z UTC  4 Oct 2023  0.3m
+Marmagao           INDIA         15.41N  73.80E 0948z UTC  4 Oct 2023  1.5m
+Rodrigues          MAURITIUS     19.68S  63.42E 0950z UTC  4 Oct 2023  3.3m
+Denis Island       SEYCHELLES     3.80S  55.67E 1005z UTC  4 Oct 2023  1.5m
+Agalega            MAURITIUS     10.35S  56.59E 1019z UTC  4 Oct 2023  1.4m
+Blue Bay           MAURITIUS     20.44S  57.71E 1030z UTC  4 Oct 2023  0.8m
+DART 23226         INDIA         20.20N  67.33E 1034z UTC  4 Oct 2023  0.1m
+Chittagong         BANGLADESH    22.33N  91.83E 1044z UTC  4 Oct 2023  2.9m
+Pt.Louis           MAURITIUS     20.16S  57.50E 1044z UTC  4 Oct 2023  0.7m
+Hillarys Harbor    AUSTRALIA     31.83S 115.74E 1046z UTC  4 Oct 2023  0.7m
+Salalah            OMAN          16.93N  54.01E 1052z UTC  4 Oct 2023  1.7m
+Gwadar             PAKISTAN      25.11N  62.34E 1058z UTC  4 Oct 2023  0.8m
+Geraldton          AUSTRALIA     28.76S 114.56E 1100z UTC  4 Oct 2023  1.3m
+Veeraval           INDIA         20.90N  70.36E 1104z UTC  4 Oct 2023  0.4m
+Muscat             OMAN          23.63N  58.57E 1105z UTC  4 Oct 2023  0.9m
+Duqm               OMAN          19.66N  57.72E 1109z UTC  4 Oct 2023  1.7m
+Jask               IRAN          25.63N  57.77E 1130z UTC  4 Oct 2023  0.4m
+Khawr Wudam        OMAN          23.87N  57.52E 1137z UTC  4 Oct 2023  0.3m
+Majis              OMAN          24.52N  56.61E 1143z UTC  4 Oct 2023  0.3m
+Toamasina          MADAGASCAR    18.15S  49.43E 1149z UTC  4 Oct 2023  0.9m
+Keti Bandar        PAKISTAN      24.13N  67.43E 1151z UTC  4 Oct 2023  0.6m
+Broome             AUSTRALIA     18.00S 122.22E 1156z UTC  4 Oct 2023  0.2m
+Dzaoudzi           FRANCE        12.78S  45.26E 1210z UTC  4 Oct 2023  0.3m
+Comores            COMORES       11.70S  43.25E 1225z UTC  4 Oct 2023  0.2m
+Lamu               KENYA          2.27S  40.90E 1233z UTC  4 Oct 2023  1.2m
+Mombasa            KENYA          4.07S  39.65E 1240z UTC  4 Oct 2023  3.0m
+Aden               YEMEN         12.79N  44.97E 1241z UTC  4 Oct 2023  0.3m
+Esperance          AUSTRALIA     33.87S 121.90E 1245z UTC  4 Oct 2023  0.1m
+Mtwara             TANZANIA      10.27S  40.20E 1246z UTC  4 Oct 2023  1.1m
+Ennore             INDIA         13.20N  80.32E 1312z UTC  4 Oct 2023  4.7m
+Karachi            PAKISTAN      24.81N  66.97E 1320z UTC  4 Oct 2023  0.5m
+Waikelo            INDONESIA      9.39S 119.22E 1349z UTC  4 Oct 2023  0.2m
+Masirah            OMAN          20.68N  58.87E 1354z UTC  4 Oct 2023  0.8m
+DART 23228         INDIA         20.76N  65.28E 1404z UTC  4 Oct 2023  0.1m
+Pemba              MOZAMBIQUE    12.97S  40.48E 1425z UTC  4 Oct 2023  0.2m
+Machilipatnam      INDIA         16.14N  81.19E 1430z UTC  4 Oct 2023  2.7m
+Zanzibar           TANZANIA       6.15S  39.18E 1444z UTC  4 Oct 2023  0.7m
+Nagapattinam       INDIA         10.77N  79.85E 1448z UTC  4 Oct 2023  3.5m
+------------------------------------------------------------------------------
+
+
+3. ADVICE
+This bulletin is being issued as advice. Only national/state/local
+authorities and disaster management officers have the authority to
+make decisions regarding the official threat and warning status in
+their coastal areas and any action to be taken in response.
+
+For more detailed information, please refer to the tsunami advisory
+bulletins issued by the National Tsunami Warning Centres (NTWCs) of
+IOTWMS member states. The tsunami warning status reported by NTWCs for
+their countries can be found at:   
+http://www.incois.gov.in/Incois/tsunami/NTWCFeedbackStatus.jsp
+
+4. UPDATES
+Additional bulletins will be issued by IOTWMS-TSP INDONESIA for this event as
+more information becomes available.
+
+Other IOTWMS-TSPs may issue additional information at:
+IOTWS-TSP AUSTRALIA:  http://www.bom.gov.au/tsunami/iotws/
+IOTWS-TSP INDIA    :  http://www.incois.gov.in/Incois/tsunami/eqevents.jsp
+
+5. CONTACT INFORMATION
+IOTWMS-TSP INDONESIA:
+THE AGENCY FOR METEOROLOGY CLIMATOLOGY AND GEOPHYSICS (BMKG)
+InaTEWS - Indonesian Tsunami Early Warning System
+Address: Jl. Angkasa I no.2 Kemayoran, Jakarta, Indonesia, 10720
+Tel.: +62 (21) 4246321/6546316
+Fax: +62 (21) 6546316/4246703
+P.O. Box 3540 Jakarta
+Website:  https://www.bmkg.go.id
+          https://inatews.bmkg.go.id
+E-Mail:   inartsp@bmkg.go.id
+          monitrtwp@bmkg.go.id
+
+6. TSUNAMI WARNING SYSTEMS OUTSIDE THE INDIAN OCEAN
+Pacific Tsunami Warning and Mitigation System (PTWS):
+----------------------------------------------------
+Pacific Tsunami Warning Centre (PTWC)
+http://ptwc.weather.gov/
+
+North West Pacific Tsunami Advisory Centre (NWPTAC)
+http://www.jma.go.jp/en/tsunami/
+
+US National Tsunami Warning Centre (US NTWC)
+http://wcatwc.arh.noaa.gov/
+
+Joint Australian Tsunami Warning Centre (JATWC)
+http://www.bom.gov.au/tsunami/
+
+
+Northeast Atlantic, Mediterranean and Connected Seas (NEAMTWS):
+--------------------------------------------------------------
+French National Tsunami Warning Centre (CENALT)
+http://www.info-tsunami.fr
+
+Institute of Geodynamics, National Observatory of Athens
+http://www.gein.noa.gr/en/
+
+Kandilli Observatory and Earthquake Research Institute, Turkey
+http://www.koeri.boun.edu.tr/2/en/
+
+
+Caribbean and Adjacent Regions (CARIBE EWS):
+-------------------------------------------
+Pacific Tsunami Warning Centre (PTWC)
+http://ptwc.weather.gov/
+
+END OF BULLETIN
+---------------------------------------------------------------------
+TEST TEST TEST TEST TEST IOWave-Oct-2023  TEST TEST TEST TEST TEST TEST TEST
+TEST TEST TEST TEST TEST IOWave-Oct-2023  TEST TEST TEST TEST TEST TEST TEST
+</font></pre><br><br><a href=publicbull.php>&laquo; Back to the lists</a><br><br></div>
+            <div align="left"><div id="templatemo_sidebar" align=center><div id="menu"><div id="menubody"><ul id="menulist"><div align=left style="padding-bottom:10px;"><font class=judulmenu>Public Bulletin</a></div><li><a href="publicbull.php">InaTSP Public Bulletin</a></li></ul></div><div id="menubottom"></div></div><div id="menu"><div id="menubody"><ul id="menulist"><div align=left style="padding-bottom:10px;"><font class=judulmenu>User Login</a></div><div align=left><form name="login" method="post" action="login.php"><font class=tekslabel2>Username:</font><br><input name="username" type="text" class="textbox" style="width: 200px;"/><br><font class=tekslabel2>Password:</font><br><input name="password" type="password" class="textbox" style="width: 200px;"/><br></div></ul><div align=right style="margin: 5px 40px 0 40px;"><a href=pwdrecv.php><font class=tekslabel2>Forgot Password ?</font></a></div><div align=left style="margin: 5px 50px 0 40px;"><input name="Submit" type="submit" value="Login" style="width:85px; height:25px;"/></div></form></div><div id="menubottom"></div></div><br></div> </div></td>
+        </tr>
+        <tr>
+          <td height="5" background="images/bawah.png"></td>
+        </tr>
+        <tr>
+          <td background="images/bawah2.png"><div align="center" style="margin: 10px 0 10px"> <span class="txt11pxarial">            Copyright &copy; 2026 <br />
+Badan Meteorologi Klimatologi dan Geofisika (BMKG) </span><br />
+          </div>
+          </td>
+        </tr>
+        <tr>
+          <td height="5" background="images/bawah2a.png"></td>
+        </tr>
+      </table>
+    </div></td>
+  </tr>
+</table>
+</div>
+</body>
+</html>

@@ -1,0 +1,2 @@
+bmkg_event_count,noaa_catalog_count,usgs_catalog_count,noaa_matched_event_count,usgs_matched_event_count,bmkg_observed_wave_count,external_wave_proxy_count
+440,364,308,17,119,3,17

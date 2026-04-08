@@ -1,0 +1,208 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!--<meta http-equiv='refresh' content='1800' />-->
+<title>.: Indonesia Tsunami Service Provider - InaTSP:.</title>
+<link href="css/dropdown.css" media="all" rel="stylesheet" type="text/css" />
+<link href="css/default.advanced.css" media="all" rel="stylesheet" type="text/css" />
+<link href="css/helper.css" media="all" rel="stylesheet" type="text/css" />
+<link href="templatemo_style.css" rel="stylesheet" type="text/css" />
+<link href="tab_style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js" integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw==" crossorigin=""></script>
+<link href="tab_style.css" rel="stylesheet" type="text/css" />
+<script language="javascript1.2">
+ function konfirm_dsm(tanggal,jam,ketlat,ketlon,mag,dalam,loc,bullno){     
+	 if(confirm("Are you sure will disseminate this information with parameters below: \n OT : "+tanggal+" "+jam+" UTC\n Lat: "+ketlat+"\n Lon: "+ketlon+"\n Mag: "+mag+"\n Depth: "+dalam+" Km \n Location: "+loc+"\n Bulletin No: "+bullno))
+	 {
+	 	return true;
+	 }
+	 else
+	 {
+	 	return false;
+	 }
+ }
+
+ function konfirm_unpub(tanggal,jam,ketlat,ketlon,mag,dalam,loc,bullno){     
+	 if(confirm("Are you sure will unpublish this event with parameters below: \n OT : "+tanggal+" "+jam+" UTC\n Lat: "+ketlat+"\n Lon: "+ketlon+"\n Mag: "+mag+"\n Depth: "+dalam+" Km \n Location: "+loc+"\n Bulletin No: "+bullno))
+	 {
+	 	return true;
+	 }
+	 else
+	 {
+	 	return false;
+	 }
+ }
+
+ function konfirm_del(tanggal,jam,ketlat,ketlon,mag,dalam,loc,bullno,grup){     
+	 if(confirm("Are you sure will delete this event with parameters below: \n OT : "+tanggal+" "+jam+" UTC\n Lat: "+ketlat+"\n Lon: "+ketlon+"\n Mag: "+mag+"\n Depth: "+dalam+" Km \n Location: "+loc+"\n Bulletin No: "+bullno+"\n Grup: "+grup))
+	 {
+	 	return true;
+	 }
+	 else
+	 {
+	 	return false;
+	 }
+ }
+</script>
+</head>
+<body>
+<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">  
+  <tr>
+    <td height="1" colspan="3" bgcolor="#FFFFFF"></td>
+  </tr>
+  <tr>
+    <td bgcolor="#000000">&nbsp;</td>
+    <td width="1200" bgcolor="#8a8a8a"><div align="left"><img src="images/slider/header6_gempa.jpg" width="1200" height="100" /></div></td>
+    <td bgcolor="#8a8a8a">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height=1 colspan="3" bgcolor="#ffffff"></td>
+  </tr>
+  <tr>
+    <td height=30 colspan="3" background="images/bg_menu_atas.gif"><div align="center">
+      <table width="1222" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="617"><div align="left" id="menuatas">&nbsp;&nbsp;&nbsp;&nbsp;<font class=tulisanheader>InaTEWS - Indonesia Tsunami Early Warning System</font></div></td>
+          <td width="535"><div align="center" id="menuatas2"><a href=index.php><b>Home</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=publicbull.php>Public Bulletin</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=about_inartsp.php>About InaTSP</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=seismic_a.php>Seismic Network</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=kontak.php>Contact Us</a></div></td>
+          <td width="70"><div align="center" class="conten"></div></td>
+        </tr>
+      </table>
+    </div></td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center">
+      <table width="1244" border="0" align="center" cellpadding="0" cellspacing="0">
+        
+        <tr>
+          <td height="4" background="images/menu.png"></td>
+        </tr>
+        <tr>
+          <td background="images/utama.png"><div id="templatemo_content" align="left"><font class=judulh2>Public Bulletin in Detail</font><br><br><a href=publicbull.php>&laquo; Back to the lists</a><br><br><table width=100% border=0 cellpadding=0 cellspacing=0><tr><td width=10%><font class=txt13pxarial>Magnitude </font></td><td width=90%><img src=images/6,5.png align=absmiddle></td></tr><tr><td height=8px></td></tr><tr><td><font class=txt13pxarial>Origin Time </font></td><td width=90%><font class=txt13pxarial>: 2023-04-14 09:55:46 UTC</font></td></tr><tr><td><font class=txt13pxarial>Location </font></td><td width=90%><font class=txt13pxarial>: 6.12S - 112E (Java, Indonesia)</font></td></tr><tr><td><font class=txt13pxarial>Depth </font></td><td width=90%><font class=txt13pxarial>: 604 Km</font></td></tr><tr><td><font class=txt13pxarial>Bulletin </font></td><td width=90%><font class=txt13pxarial>: 1 (EARTHQUAKE BULLETIN)</font></td></tr></table><br><br><table width=100% border=0 cellpadding=0 cellspacing=1 bgcolor=#333333><tr><td><table width=100% border=0 cellpadding=0 cellspacing=1 bgcolor=#ffffff><tr><td><div id="mapDiv" style="width: 100%; height: 500px"></div><script>var icon_norm = L.icon({iconUrl: 'generate_peta/images/epic.png', iconSize: [40, 40]});
+var icon_mw9 = L.icon({iconUrl: 'generate_peta/images/new/mw9.png', iconSize: [25, 25]});
+var icon_mw85_9 = L.icon({iconUrl: 'generate_peta/images/new/mw85-9.png', iconSize: [22, 22]});
+var icon_mw65 = L.icon({iconUrl: 'generate_peta/images/new/mw65.png', iconSize: [19, 19]});
+var icon_mwgreen = L.icon({iconUrl: 'generate_peta/images/new/circle-green-10.png', iconSize: [25, 25]});
+var lat = -1.00;var lon = 85.00;map = L.map('mapDiv').setView([lat, lon], 3);L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', { maxZoom: 18 }).addTo(map);marker = L.marker([-6.12, 112], {icon: icon_norm}).addTo(map);marker.bindPopup("<table border=0 cellpadding=0 cellspacing=1 bgcolor=#aaaaaa><tr><td bgcolor=#dddddd><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;Magnitude&nbsp;&nbsp;</span></div></td><td bgcolor=#efefef><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;6.5</span></div></td></tr><tr><td bgcolor=#dddddd><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;Date</span></div></td><td bgcolor=#efefef><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;2023-04-14</span></div></td></tr><tr><td bgcolor=#dddddd><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;Time</span></div></td><td bgcolor=#efefef><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;09:55:46 UTC</span></div></td></tr><tr><td bgcolor=#dddddd><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;Latitude</span></div></td><td bgcolor=#efefef><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;6.12S</span></div></td></tr><tr><td bgcolor=#dddddd><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;Longitude </span></div></td><td bgcolor=#efefef><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;112E</span></div></td></tr><tr><td bgcolor=#dddddd><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;Depth&nbsp;</span></div></td><td bgcolor=#efefef><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;604 Km</span></div></td></tr><tr><td bgcolor=#dddddd><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;Remark</span></div></td><td bgcolor=#efefef><div align=left><span style=font-size: 10px; font-family: verdana;>&nbsp;Java, Indonesia&nbsp;&nbsp;</span></div></td></tr></table>").addTo(map);</script></td></tr></table></td></tr></table><br><br><pre><font class=courier>TSP-InaTEWS-20230414-1008-001
+--------------------------------------------------------------------------------
+PUBLIC TSUNAMI BULLETIN NUMBER 1 
+IOTWMS TSUNAMI SERVICE PROVIDER INDONESIA (InaTEWS-BMKG)
+issued at 1008 UTC, Apr 14, 2023
+--------------------------------------------------------------------------------
+
+... EARTHQUAKE BULLETIN ...
+
+This bulletin applies to areas within and bordering the Indian Ocean
+and is issued by Tsunami Service Provider INDONESIA in support of the
+UNESCO/IOC Indian Ocean Tsunami Warning and Mitigation System (IOTWMS).
+
+For information applying to areas outside the Indian Ocean refer to
+the relevant Tsunami Warning and Mitigation Systems listed in section
+6 below.
+
+1. EARTHQUAKE INFORMATION
+IOTWMS-TSP INDONESIA has detected an earthquake with the following 
+preliminary information:
+
+Magnitude  : 6.5 Mwp
+Depth      : 604km
+Date       : 14 Apr 2023
+Origin Time: 09:55:46 UTC
+Latitude   : 6.12S
+Longitude  : 112.00E
+Location   : Java, Indonesia
+
+2. EVALUATION
+Based on historical data and tsunami modelling, this earthquake 
+is not capable of generating a tsunami affecting the Indian Ocean
+region. No further bulletins will be issued unless the situation
+changes.
+
+Further information on this event will be available at:
+http://rtsp.bmkg.go.id
+
+3. ADVICE
+This bulletin is being issued as advice. Only national/state/local
+authorities and disaster management officers have the authority to
+make decisions regarding the official threat and warning status in
+their coastal areas and any action to be taken in response.
+
+For more detailed information, please refer to the tsunami advisory
+bulletins issued by the National Tsunami Warning Centres (NTWCs) of
+Indian Ocean countries. The tsunami warning status reported by NTWCs
+For their countries can be found at:
+http://www.incois.gov.in/Incois/tsunami/NTWCFeedbackStatus.jsp
+
+4. OTHER INDIAN OCEAN TSUNAMI SERVICE PROVIDERS:
+Other IOTWMS-TSPs may issue additional information at:
+IOTWMS-TSP AUSTRALIA:  http://www.bom.gov.au/tsunami/iotws
+IOTWMS-TSP INDIA:      http://www.incois.gov.in/Incois/tsunami/eqevents.jsp
+
+5. CONTACT INFORMATION
+IOTWMS-TSP INDONESIA:
+THE AGENCY FOR METEOROLOGY CLIMATOLOGY AND GEOPHYSICS (BMKG)
+InaTEWS - Indonesian Tsunami Early Warning System
+Address: Jl. Angkasa I no.2 Kemayoran, Jakarta, Indonesia, 10720
+Tel.: +62 (21) 4246321/6546316
+Fax: +62 (21) 6546316/4246703
+P.O. Box 3540 Jakarta
+Website:  http://rtsp.bmkg.go.id/publicbull.php
+E-Mail:   inartsp@bmkg.go.id
+          monitrtwp@bmkg.go.id
+
+6. TSUNAMI WARNING SYSTEMS OUTSIDE THE INDIAN OCEAN
+Pacific Tsunami Warning and Mitigation System (PTWS):
+----------------------------------------------------
+Pacific Tsunami Warning Centre (PTWC)
+http://ptwc.weather.gov/
+
+North West Pacific Tsunami Advisory Centre (NWPTAC)
+http://www.jma.go.jp/en/tsunami/
+
+US National Tsunami Warning Centre (US NTWC)
+http://wcatwc.arh.noaa.gov/
+
+Joint Australian Tsunami Warning Centre (JATWC)
+http://www.bom.gov.au/tsunami/
+
+Northeast Atlantic, Mediterranean and Connected Seas (NEAMTWS):
+--------------------------------------------------------------
+French National Tsunami Warning Centre (CENALT)
+http://www.info-tsunami.fr
+
+Institute of Geodynamics, National Observatory of Athens
+http://www.gein.noa.gr/en/
+
+Kandilli Observatory and Earthquake Research Institute, Turkey
+http://www.koeri.boun.edu.tr/2/en/
+
+Caribbean and Adjacent Regions (CARIBE EWS):
+-------------------------------------------
+Pacific Tsunami Warning Centre (PTWC)
+http://ptwc.weather.gov/
+
+END OF BULLETIN
+--------------------------------------------------------------------------------
+</font></pre><br><br><a href=publicbull.php>&laquo; Back to the lists</a><br><br></div>
+            <div align="left"><div id="templatemo_sidebar" align=center><div id="menu"><div id="menubody"><ul id="menulist"><div align=left style="padding-bottom:10px;"><font class=judulmenu>Public Bulletin</a></div><li><a href="publicbull.php">InaTSP Public Bulletin</a></li></ul></div><div id="menubottom"></div></div><div id="menu"><div id="menubody"><ul id="menulist"><div align=left style="padding-bottom:10px;"><font class=judulmenu>User Login</a></div><div align=left><form name="login" method="post" action="login.php"><font class=tekslabel2>Username:</font><br><input name="username" type="text" class="textbox" style="width: 200px;"/><br><font class=tekslabel2>Password:</font><br><input name="password" type="password" class="textbox" style="width: 200px;"/><br></div></ul><div align=right style="margin: 5px 40px 0 40px;"><a href=pwdrecv.php><font class=tekslabel2>Forgot Password ?</font></a></div><div align=left style="margin: 5px 50px 0 40px;"><input name="Submit" type="submit" value="Login" style="width:85px; height:25px;"/></div></form></div><div id="menubottom"></div></div><br></div> </div></td>
+        </tr>
+        <tr>
+          <td height="5" background="images/bawah.png"></td>
+        </tr>
+        <tr>
+          <td background="images/bawah2.png"><div align="center" style="margin: 10px 0 10px"> <span class="txt11pxarial">            Copyright &copy; 2026 <br />
+Badan Meteorologi Klimatologi dan Geofisika (BMKG) </span><br />
+          </div>
+          </td>
+        </tr>
+        <tr>
+          <td height="5" background="images/bawah2a.png"></td>
+        </tr>
+      </table>
+    </div></td>
+  </tr>
+</table>
+</div>
+</body>
+</html>

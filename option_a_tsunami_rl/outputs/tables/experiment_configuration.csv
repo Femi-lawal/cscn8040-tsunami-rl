@@ -1,0 +1,31 @@
+parameter,value
+episodes,8000
+alpha,0.08
+gamma,0.985
+epsilon_start,0.3
+epsilon_end,0.02
+rule_warm_start_episodes,500
+warm_start_alpha,0.18
+synthetic_training_multiplier,1.0
+real_train_event_count,306
+synthetic_train_event_count,306
+augmented_train_event_count,612
+policy_variants,"pure_greedy, safe_rule_fallback"
+safe_policy_fallback_margin,2.5
+reward_schedule_shaping_note,schedule shaping removed; reward is outcome- and evidence-driven
+episode_horizon_steps,12
+dp_baseline_note,"fully observed oracle reference, not operational comparator"
+ppo_total_steps,40000
+ppo_n_envs,4
+ppo_rollout_steps,64
+ppo_update_epochs,4
+ppo_minibatches,4
+ppo_hidden_size,256
+ppo_lstm_size,128
+ppo_eval_interval,10000
+ppo_requested_device,cpu
+ppo_resolved_device,cpu
+ppo_run_seeds,77
+ppo_severe_miss_penalty,300.0
+ppo_false_warning_penalty,50.0
+ppo_selection_metric,validation_safety_score

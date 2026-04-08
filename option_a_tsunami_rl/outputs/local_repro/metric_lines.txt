@@ -1,0 +1,10 @@
+validation_avg_return=25.523958333333336
+validation_safety_score=25.523958333333336
+validation_severe_miss_rate=0.0
+validation_false_warning_rate=0.0
+test_avg_return=25.342857142857145
+test_safety_score=25.342857142857145
+test_severe_miss_rate=0.0
+test_false_warning_rate=0.0
+resolved_device=cuda
+best_seed=88

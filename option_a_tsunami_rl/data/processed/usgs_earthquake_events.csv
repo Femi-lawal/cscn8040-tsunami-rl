@@ -1,0 +1,309 @@
+event_id,origin_time_utc,longitude,latitude,depth_km,magnitude,place,tsunami_flag,significance,mmi,felt,status,url
+official20120411083836720_20,2012-04-11T08:38:36.720000+00:00,93.063,2.327,20.0,8.6,2012 Wharton Basin Earthquake,0,2048,6.755,3311.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/official20120411083836720_20
+usp000jhhg,2012-04-11T09:27:56.760000+00:00,91.735,1.254,10.0,6.0,North Indian Ocean,0,554,,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jhhg
+usp000jhjb,2012-04-11T10:43:10.850000+00:00,92.463,0.802,25.1,8.2,2012 Wharton Basin Aftershock,0,1213,5.615,196.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jhjb
+usp000jj0a,2012-04-15T05:57:40.060000+00:00,90.269,2.581,25.0,6.2,off the west coast of northern Sumatra,0,592,,4.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jj0a
+usp000jjaq,2012-04-21T01:16:52.740000+00:00,134.276,-1.617,16.0,6.7,"86 km SSE of Manokwari, Indonesia",0,691,6.544,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jjaq
+usp000jjat,2012-04-21T01:25:13.200000+00:00,134.197,-1.635,17.4,6.0,"86 km S of Manokwari, Indonesia",0,554,6.326,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jjat
+usp000jn41,2012-06-23T04:34:53.180000+00:00,97.896,3.009,95.0,6.1,"66 km W of Kabanjahe, Indonesia",0,676,4.6,195.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jn41
+usp000jpe1,2012-07-25T00:27:45.260000+00:00,96.045,2.707,22.0,6.4,"44 km NW of Sinabang, Indonesia",0,632,6.281,8.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jpe1
+usp000jqf3,2012-08-18T09:41:52.450000+00:00,120.096,-1.315,10.0,6.3,"51 km SSE of Palu, Indonesia",0,613,7.647,4.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jqf3
+usp000jqha,2012-08-19T22:41:49.810000+00:00,144.57,-4.766,73.0,6.2,"95 km SE of Angoram, Papua New Guinea",0,596,5.364,8.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jqha
+usp000jqrz,2012-08-26T15:05:37.080000+00:00,126.837,2.19,91.1,6.6,"140 km WNW of Tobelo, Indonesia",0,678,5.016,19.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jqrz
+usp000jr83,2012-08-31T12:47:33.380000+00:00,126.638,10.811,28.0,7.6,"89 km E of Sulangan, Philippines",0,1115,5.246,287.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jr83
+usp000jrkr,2012-09-03T18:23:05.230000+00:00,113.931,-10.708,14.0,6.1,"251 km SSW of Jimbaran, Indonesia",0,584,,35.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jrkr
+usp000jrzt,2012-09-08T10:51:44.200000+00:00,135.109,-3.177,21.0,6.1,"48 km WNW of Nabire, Indonesia",0,572,5.936,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jrzt
+usp000jsa4,2012-09-14T04:51:47.070000+00:00,100.594,-3.319,19.0,6.2,"165 km SSW of Sungai Penuh, Indonesia",0,593,5.5,5.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jsa4
+usp000jtqw,2012-10-08T11:43:31.420000+00:00,129.129,-4.472,10.0,6.1,"127 km S of Amahai, Indonesia",0,572,,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jtqw
+usp000jtvw,2012-10-12T00:31:28.270000+00:00,134.03,-4.892,13.0,6.6,"163 km ENE of Tual, Indonesia",0,674,4.656,11.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jtvw
+usp000ju30,2012-10-17T04:42:30.400000+00:00,124.52,4.232,326.0,6.0,"166 km SW of Sarangani, Philippines",0,554,,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000ju30
+usp000juy1,2012-11-02T18:17:32.730000+00:00,126.161,9.219,37.0,6.1,"2 km NW of Tigao, Philippines",0,598,5.973,40.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000juy1
+usp000jwt8,2012-12-10T16:53:08.770000+00:00,129.825,-6.533,155.0,7.1,Banda Sea,0,843,5.186,134.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jwt8
+usp000jwu3,2012-12-11T06:18:27.330000+00:00,126.231,0.533,30.0,6.0,Molucca Sea,0,554,3.738,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jwu3
+usp000jx2e,2012-12-17T09:16:30.900000+00:00,123.807,-0.649,44.2,6.1,"118 km ENE of Luwuk, Indonesia",0,572,4.778,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jx2e
+usb000esgn,2013-01-21T22:22:52.760000+00:00,95.907,4.927,12.0,6.1,"50 km S of Sigli, Indonesia",0,576,6.391,5.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000esgn
+usc000f8be,2013-02-16T04:37:36.220000+00:00,125.748,5.812,105.0,6.1,"16 km SE of Caburan, Philippines",0,582,4.359,21.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usc000f8be
+usb000g13s,2013-04-06T04:42:35.860000+00:00,138.476,-3.517,66.0,7.0,"260 km WSW of Abepura, Indonesia",1,755,6.6,3.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000g13s
+usb000g8my,2013-04-16T22:55:26.680000+00:00,142.542,-3.214,13.0,6.6,"23 km ESE of Aitape, Papua New Guinea",1,672,6.73,3.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000g8my
+usc000hpsd,2013-06-13T16:47:23.320000+00:00,107.236,-10.004,9.0,6.7,"south of Java, Indonesia",0,710,3.752,39.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usc000hpsd
+usb000i4re,2013-07-02T07:37:02.610000+00:00,96.665,4.645,13.0,6.1,"61 km S of Bireun, Indonesia",0,700,6.523,45.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000i4re
+usb000i7na,2013-07-06T05:05:06.650000+00:00,100.564,-3.269,21.0,6.0,"162 km SW of Sungai Penuh, Indonesia",0,554,5.684,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000i7na
+usb000j0vl,2013-08-12T00:53:43.980000+00:00,129.8088,-7.1354,95.0,6.0,"Kepulauan Babar, Indonesia",0,557,4.48,9.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000j0vl
+usb000jelf,2013-09-01T11:52:29.930000+00:00,128.2209,-7.44,112.0,6.5,"180 km NE of Lospalos, Timor Leste",0,668,5.327,50.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000jelf
+usb000jx0m,2013-09-21T01:39:15.570000+00:00,120.0106,-7.3308,549.92,6.1,"129 km N of Labuan Bajo, Indonesia",0,572,2.93,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000jx0m
+usb000k7q5,2013-10-06T16:38:08.760000+00:00,141.6905,12.3115,104.0,6.0,Mariana Islands region,0,554,3.33,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000k7q5
+usb000kdb4,2013-10-15T00:12:32.050000+00:00,124.1167,9.8796,19.04,7.1,"4 km SE of Sagbayan, Philippines",1,1096,8.16,105.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000kdb4
+usb000l219,2013-11-19T13:32:51.230000+00:00,128.4339,2.6403,38.0,6.0,"111 km NNE of Tobelo, Indonesia",0,554,5.567,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000l219
+usb000l8mb,2013-12-01T01:24:13.520000+00:00,128.3791,-7.0269,9.87,6.4,"224 km NE of Lospalos, Timor Leste",0,632,6.48,3.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000l8mb
+usb000l8pb,2013-12-01T06:29:57.800000+00:00,96.8261,2.044,20.0,6.0,"69 km SE of Sinabang, Indonesia",0,554,5.166,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000l8pb
+usb000m7wd,2014-01-25T05:14:18.510000+00:00,109.2653,-7.9855,66.0,6.1,"39 km S of Kroya, Indonesia",0,590,5.076,28.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000m7wd
+usc000njrq,2014-03-21T13:41:09.480000+00:00,94.3342,7.7448,21.54,6.4,"232 km NNW of Sabang, Indonesia",0,630,4.73,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usc000njrq
+usb000qn2z,2014-05-14T20:56:13.210000+00:00,144.9238,6.4507,10.0,6.1,"State of Yap, Federated States of Micronesia",1,572,0.0,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000qn2z
+usb000qngw,2014-05-15T08:16:34.440000+00:00,144.9363,6.4264,11.0,6.3,"State of Yap, Federated States of Micronesia",0,611,4.02,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000qngw
+usb000qniy,2014-05-15T10:16:42.020000+00:00,122.0604,9.3832,15.46,6.3,"51 km WSW of Alim, Philippines",0,611,5.396,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000qniy
+usb000qt4l,2014-05-18T01:02:32.610000+00:00,92.7574,4.2485,35.0,6.0,off the west coast of northern Sumatra,0,554,2.53,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000qt4l
+usc000rfh2,2014-06-14T11:10:59.850000+00:00,91.0921,-10.1229,4.0,6.5,South Indian Ocean,0,650,0.0,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usc000rfh2
+usc000rqs7,2014-07-05T09:39:27.790000+00:00,96.9388,1.9335,20.0,6.0,"86 km SE of Sinabang, Indonesia",0,554,5.386,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usc000rqs7
+usb000rsr5,2014-07-14T07:59:57.290000+00:00,126.4776,5.7144,20.0,6.3,"78 km SSE of Pondaguitan, Philippines",0,613,4.23,6.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000rsr5
+usb000s0r6,2014-08-06T11:45:22.680000+00:00,128.0364,-7.2741,10.0,6.2,"179 km NE of Lospalos, Timor Leste",0,591,4.69,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000s0r6
+usb000say6,2014-09-10T02:46:06.430000+00:00,125.104,-0.2422,35.0,6.2,"172 km S of Tondano, Indonesia",1,591,3.88,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000say6
+usb000sdcr,2014-09-17T06:14:45.410000+00:00,144.4294,13.7641,130.0,6.7,"43 km NW of Piti Village, Guam",1,724,4.685,61.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000sdcr
+usc000sxh8,2014-11-15T02:31:41.720000+00:00,126.5217,1.8929,45.0,7.1,"155 km NW of Ternate, Indonesia",1,779,6.175,8.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usc000sxh8
+usb000syhz,2014-11-21T10:10:19.630000+00:00,127.0562,2.2999,35.0,6.5,"123 km WNW of Tobelo, Indonesia",1,652,4.512,3.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000syhz
+usb000t08w,2014-11-26T14:33:43.640000+00:00,126.5751,1.9604,39.0,6.8,"157 km NW of Ternate, Indonesia",1,713,5.169,3.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000t08w
+usb000t20t,2014-12-02T05:11:31+00:00,123.1261,6.1572,614.0,6.6,"106 km WSW of Sangay, Philippines",0,670,3.18,0.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usb000t20t
+usc000t4bd,2014-12-06T22:05:10.730000+00:00,130.4829,-6.11,116.0,6.0,Banda Sea,0,555,4.36,5.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usc000t4bd
+usc000t8vq,2014-12-21T11:34:13.570000+00:00,126.6483,2.0892,41.0,6.3,"156 km WNW of Tobelo, Indonesia",0,611,4.02,0.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usc000t8vq
+usc000taik,2014-12-29T09:29:37.390000+00:00,121.5213,8.6341,8.0,6.1,"122 km NNW of Siocon, Philippines",0,576,3.68,8.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usc000taik
+usc000ttkd,2015-02-27T13:45:05.370000+00:00,122.5348,-7.2968,552.06,7.0,"150 km NNE of Maumere, Indonesia",0,760,5.52,17.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usc000ttkd
+usc000tumx,2015-03-03T10:37:30.050000+00:00,98.7161,-0.7789,28.0,6.1,"157 km W of Pariaman, Indonesia",0,574,5.393,4.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/usc000tumx
+us10001mm0,2015-03-15T23:17:16.910000+00:00,122.3067,-0.5409,31.0,6.1,"70 km NW of Luwuk, Indonesia",0,572,5.19,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us10001mm0
+us10001nab,2015-03-17T22:12:28.940000+00:00,126.5217,1.6686,44.0,6.2,"136 km NW of Ternate, Indonesia",1,592,4.61,2.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us10001nab
+us100029k5,2015-05-15T20:26:56.870000+00:00,102.2191,-2.542,151.0,6.0,"106 km ESE of Sungai Penuh, Indonesia",0,556,4.108,4.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us100029k5
+us20002m5s,2015-06-04T23:15:43.910000+00:00,116.5409,5.9867,10.0,6.0,"14 km WNW of Ranau, Malaysia",0,627,7.167,111.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us20002m5s
+us10002n6s,2015-07-03T06:43:21.540000+00:00,125.8907,10.1691,32.0,6.1,"23 km NW of Santa Monica, Philippines",0,600,5.465,40.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us10002n6s
+us200030kn,2015-07-27T21:41:21.710000+00:00,138.5277,-2.6286,48.0,7.0,"234 km W of Abepura, Indonesia",1,762,7.219,10.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us200030kn
+us20003jwc,2015-09-16T07:40:58.690000+00:00,126.4288,1.8841,41.55,6.3,"161 km NW of Ternate, Indonesia",0,612,4.19,2.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us20003jwc
+us20003nqr,2015-09-24T15:53:27.740000+00:00,131.2622,-0.6212,18.0,6.6,"28 km N of Sorong, Indonesia",0,671,6.554,2.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us20003nqr
+us200041ty,2015-11-04T03:44:15.190000+00:00,124.8754,-8.3381,20.0,6.5,"47 km NW of Maubara, Timor Leste",0,657,6.56,14.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us200041ty
+us10003vry,2015-11-08T16:47:02.160000+00:00,94.648,6.8431,10.0,6.6,"Nicobar Islands, India region",0,675,4.0,7.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us10003vry
+us1000402t,2015-11-21T09:06:13.460000+00:00,129.9375,-7.1484,82.0,6.1,"Kepulauan Babar, Indonesia",0,574,4.0,6.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us1000402t
+us20004ft7,2015-12-09T10:21:48.530000+00:00,129.5079,-4.1064,21.0,6.9,"107 km SE of Amahai, Indonesia",0,738,4.979,7.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us20004ft7
+us100048hc,2015-12-20T18:47:36.610000+00:00,117.6359,3.6455,14.0,6.1,"37 km N of Tarakan, Indonesia",0,585,7.275,19.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us100048hc
+us10004dj5,2016-01-11T16:38:05.900000+00:00,126.8621,3.8965,13.0,6.5,"227 km SE of Sarangani, Philippines",1,651,6.398,3.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us10004dj5
+us20004zp9,2016-02-12T10:02:24.050000+00:00,119.4013,-9.6338,28.0,6.3,"94 km W of Waingapu, Indonesia",0,617,6.01,14.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us20004zp9
+us200050wc,2016-02-17T17:26:02.210000+00:00,129.0605,0.8597,9.0,6.0,"151 km SE of Tobelo, Indonesia",0,554,6.06,0.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us200050wc
+us10004u1y,2016-03-02T12:49:48.110000+00:00,94.3299,-4.9521,24.0,7.8,"southwest of Sumatra, Indonesia",0,948,3.07,31.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us10004u1y
+us20005e01,2016-04-01T19:24:55.370000+00:00,144.887,-3.3585,6.0,6.2,"119 km NE of Angoram, Papua New Guinea",0,592,4.961,2.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us20005e01
+us20005fv5,2016-04-06T14:45:29.620000+00:00,107.3857,-8.2036,29.0,6.1,"111 km S of Banjar, Indonesia",0,588,3.972,30.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us20005fv5
+us20005hux,2016-04-13T18:21:52.730000+00:00,122.0231,7.7917,17.0,6.0,"15 km NW of Siocon, Philippines",0,558,6.636,10.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us20005hux
+us20005zt1,2016-06-01T22:56:00.800000+00:00,100.6654,-2.0967,50.0,6.6,"80 km W of Sungai Penuh, Indonesia",0,671,5.722,3.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us20005zt1
+us2000626m,2016-06-05T16:25:33.540000+00:00,125.6264,-4.587,429.62,6.3,Banda Sea,0,611,2.79,0.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000626m
+us200062l9,2016-06-07T19:15:15.330000+00:00,126.3712,1.2789,31.0,6.3,"125 km WNW of Ternate, Indonesia",1,611,6.224,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us200062l9
+us200062zs,2016-06-09T04:13:08.130000+00:00,116.2669,-11.2487,19.0,6.1,"279 km S of Lembar, Indonesia",0,583,2.9,25.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us200062zs
+us10006g2n,2016-08-23T19:39:44.580000+00:00,122.4345,-7.2872,533.0,6.0,"149 km N of Maumere, Indonesia",0,554,2.25,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us10006g2n
+us10006qas,2016-09-17T01:20:17.940000+00:00,140.5718,-2.0829,9.0,6.0,"52 km NNW of Jayapura, Indonesia",0,554,4.46,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us10006qas
+us10006s4v,2016-09-23T22:53:10.400000+00:00,126.4918,6.5717,65.0,6.3,"36 km SE of Tamisan, Philippines",1,636,5.076,52.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us10006s4v
+us20007f7j,2016-10-19T00:26:01.090000+00:00,108.1627,-4.8626,614.0,6.6,"161 km NNE of Pamanukan, Indonesia",0,677,2.56,20.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us20007f7j
+us10007ev8,2016-12-05T01:13:04.880000+00:00,123.3802,-7.3158,526.0,6.3,"193 km NE of Maumere, Indonesia",0,611,2.43,2.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us10007ev8
+us10007ghm,2016-12-06T22:03:33.390000+00:00,96.1678,5.2834,13.0,6.5,"14 km WNW of Reuleuet, Indonesia",0,716,8.345,73.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us10007ghm
+us2000828l,2016-12-18T09:47:06.130000+00:00,137.6736,8.3725,19.0,6.2,"135 km SSW of Colonia, Micronesia",1,592,5.07,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000828l
+us10007lkw,2016-12-21T00:17:14.990000+00:00,127.9206,-7.5082,152.0,6.7,"151 km NE of Lospalos, Timor Leste",0,726,5.132,65.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us10007lkw
+us10007nl0,2016-12-29T22:30:19.300000+00:00,118.6639,-9.0279,79.0,6.3,"58 km SSE of Dompu, Indonesia",0,689,5.459,114.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us10007nl0
+us10007s9c,2017-01-10T06:13:48.140000+00:00,122.6171,4.4782,627.17,7.3,"189 km SSE of Tabiauan, Philippines",1,849,3.33,50.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us10007s9c
+us20008ixa,2017-02-10T14:03:43.920000+00:00,125.4516,9.9071,15.0,6.5,"11 km N of Mabua, Philippines",1,721,7.456,92.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us20008ixa
+us100088sf,2017-03-14T02:51:16.770000+00:00,92.3044,6.1457,10.0,6.0,"Nicobar Islands, India region",0,556,2.99,7.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us100088sf
+us10008ls4,2017-04-28T20:23:17.260000+00:00,125.0658,5.5043,26.0,6.9,"31 km SW of Burias, Philippines",1,818,6.131,115.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us10008ls4
+us10008tp0,2017-05-20T01:06:14.250000+00:00,123.9537,9.3818,533.0,6.0,"25 km S of Alburquerque, Philippines",0,572,2.32,45.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us10008tp0
+us10008w1z,2017-05-29T14:35:21.510000+00:00,120.4313,-1.2923,12.0,6.6,"37 km WNW of Poso, Indonesia",0,678,7.117,11.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us10008w1z
+us1000976a,2017-07-06T08:03:57.550000+00:00,124.6286,11.1269,9.0,6.5,"2 km S of Lim-oo, Philippines",1,743,7.606,107.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us1000976a
+us2000a77i,2017-08-11T05:28:25.790000+00:00,120.7391,14.0065,172.0,6.2,"1 km SE of Tuy, Philippines",0,783,3.933,349.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000a77i
+us2000a7q2,2017-08-13T03:08:10.560000+00:00,101.6228,-3.7682,31.0,6.4,"71 km W of Bengkulu, Indonesia",0,642,4.947,27.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000a7q2
+us2000adjh,2017-08-31T17:06:55.750000+00:00,99.6881,-1.159,43.14,6.3,"76 km SW of Pariaman, Indonesia",0,626,4.595,28.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000adjh
+us1000aw8q,2017-10-24T10:47:47.860000+00:00,123.0735,-7.2168,553.81,6.7,"181 km NNE of Maumere, Indonesia",0,694,2.77,11.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us1000aw8q
+us1000ayz8,2017-10-31T11:50:48.370000+00:00,127.7517,-3.7449,6.0,6.1,"48 km W of Ambon, Indonesia",0,573,5.557,2.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us1000ayz8
+us2000bk15,2017-11-07T21:26:38.480000+00:00,143.4846,-4.2433,110.57,6.5,"67 km WSW of Angoram, Papua New Guinea",1,661,5.294,18.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000bk15
+us2000c1wt,2017-12-08T00:22:54.200000+00:00,140.2197,10.1164,12.79,6.4,"50 km NW of Fais, Micronesia",1,631,5.29,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000c1wt
+us2000c1zn,2017-12-08T09:51:08.050000+00:00,140.1871,10.0116,8.0,6.3,"45 km NW of Fais, Micronesia",1,611,5.25,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000c1zn
+us2000c2du,2017-12-09T15:14:24.770000+00:00,140.2016,10.0928,10.0,6.1,"50 km NW of Fais, Micronesia",0,572,4.66,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000c2du
+us2000c4v8,2017-12-15T16:47:58.230000+00:00,108.1743,-7.4921,90.0,6.5,"12 km SSW of Kawalu, Indonesia",0,999,6.645,459.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000c4v8
+us2000d7q6,2018-02-25T17:44:44.140000+00:00,142.7536,-6.0699,25.21,7.5,"32 km SW of Tari, Papua New Guinea",1,943,8.288,86.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000d7q6
+us2000d855,2018-02-26T13:34:53.530000+00:00,126.6859,-2.7774,9.0,6.1,"194 km WNW of Ambon, Indonesia",0,573,4.8,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000d855
+us2000d867,2018-02-26T15:18:00.280000+00:00,143.255,-6.5052,19.0,6.3,"59 km SW of Mendi, Papua New Guinea",0,612,7.309,2.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000d867
+us2000d90d,2018-02-28T02:45:45.430000+00:00,142.4681,-6.1696,16.0,6.1,"63 km SW of Tari, Papua New Guinea",0,577,6.527,6.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000d90d
+us2000dc52,2018-03-04T19:56:17.890000+00:00,142.5994,-6.331,10.0,6.0,"66 km SW of Tari, Papua New Guinea",0,556,7.338,4.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000dc52
+us2000dcx1,2018-03-06T14:13:07.650000+00:00,142.6116,-6.3043,20.49,6.7,"62 km SW of Tari, Papua New Guinea",1,697,6.638,8.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000dcx1
+us1000d8xh,2018-03-25T20:14:47.690000+00:00,129.8172,-6.6343,169.0,6.4,Banda Sea,0,657,4.19,76.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us1000d8xh
+us2000dus5,2018-04-05T03:53:38.410000+00:00,126.7785,6.8325,34.0,6.0,"43 km ESE of Tarragona, Philippines",0,559,4.694,11.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000dus5
+us2000dvwq,2018-04-07T05:48:40.010000+00:00,142.5314,-5.8382,18.07,6.3,"45 km W of Tari, Papua New Guinea",0,627,6.359,23.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000dvwq
+us2000e0mq,2018-04-15T19:30:43.200000+00:00,126.8759,1.4083,34.0,6.0,"88 km NW of Ternate, Indonesia",0,562,4.17,23.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000e0mq
+us1000dym9,2018-05-05T06:19:05.040000+00:00,123.9192,14.5708,18.0,6.1,"64 km NNW of Pandan, Philippines",0,606,4.154,72.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us1000dym9
+us2000gg76,2018-07-28T17:07:23.380000+00:00,122.7263,-7.1039,578.16,6.0,"177 km NNE of Maumere, Indonesia",0,555,2.08,2.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000gg76
+us2000ggbs,2018-07-28T22:47:38.740000+00:00,116.508,-8.2395,14.0,6.4,"33 km NNW of Labuan Lombok, Indonesia",0,872,6.452,404.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000ggbs
+us1000g3ub,2018-08-05T11:46:38.630000+00:00,116.4375,-8.2581,34.0,6.9,"36 km NW of Labuan Lombok, Indonesia",0,1722,8.052,802.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us1000g3ub
+us1000gbi4,2018-08-17T15:35:01.890000+00:00,119.8017,-7.3718,529.0,6.5,"124 km N of Labuan Bajo, Indonesia",0,743,3.17,173.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us1000gbi4
+us1000gcvr,2018-08-19T04:10:22.640000+00:00,116.5993,-8.3366,16.0,6.3,"19 km NNW of Labuan Lombok, Indonesia",0,690,6.057,137.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcvr
+us1000gda5,2018-08-19T14:56:27.490000+00:00,116.6272,-8.319,21.0,6.9,"20 km NNW of Labuan Lombok, Indonesia",0,1137,6.622,539.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us1000gda5
+us1000gii0,2018-08-28T07:08:11.360000+00:00,124.1871,-10.773,14.0,6.2,"92 km SE of Kupang, Indonesia",0,592,4.433,2.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us1000gii0
+us2000haxi,2018-09-08T07:16:49.620000+00:00,126.4779,7.2377,10.0,6.2,"7 km WNW of Manay, Philippines",0,611,6.611,30.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000haxi
+us1000h3mf,2018-09-28T06:59:59.740000+00:00,119.7705,-0.4009,4.99,6.1,"57 km NNW of Palu, Indonesia",0,572,7.469,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us1000h3mf
+us1000h3p4,2018-09-28T10:02:45.250000+00:00,119.8462,-0.2559,20.0,7.5,"72 km N of Palu, Indonesia",0,2033,8.367,38.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us1000h3p4
+us1000h5eg,2018-10-01T23:59:42.740000+00:00,120.2424,-10.5585,29.0,6.0,"99 km S of Waingapu, Indonesia",0,554,4.909,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us1000h5eg
+us1000ha6q,2018-10-10T18:44:55.280000+00:00,114.4553,-7.4525,9.0,6.0,"49 km NE of Panji, Indonesia",0,631,5.312,142.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us1000ha6q
+us2000i6mv,2018-11-04T07:55:29.280000+00:00,123.867,7.7599,600.71,6.0,"10 km SSE of Sapad, Philippines",0,554,2.14,2.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000i6mv
+us1000hzjp,2018-12-01T13:27:21.080000+00:00,128.7065,-7.3841,136.0,6.4,"226 km NE of Lospalos, Timor Leste",0,650,4.045,44.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us1000hzjp
+us2000iu2u,2018-12-16T09:42:37.200000+00:00,140.2323,-3.9226,61.97,6.1,"153 km SSW of Abepura, Indonesia",0,576,5.486,8.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000iu2u
+us2000iyta,2018-12-29T03:39:09.740000+00:00,126.9209,5.8983,60.21,7.0,"96 km ESE of Pondaguitan, Philippines",1,816,5.22,94.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000iyta
+us2000j0uj,2019-01-06T17:27:18.980000+00:00,126.758,2.258,43.21,6.6,Molucca Sea,1,672,4.004,10.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000j0uj
+us2000j70q,2019-01-21T23:59:23.860000+00:00,119.1521,-10.3278,26.0,6.0,"142 km WSW of Waingapu, Indonesia",0,554,3.893,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000j70q
+us2000j73a,2019-01-22T05:10:03.480000+00:00,119.0165,-10.4148,24.0,6.3,"160 km WSW of Waingapu, Indonesia",0,611,4.024,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000j73a
+us2000jcbz,2019-02-02T09:27:36.030000+00:00,100.0743,-2.8462,20.0,6.0,"170 km WSW of Sungai Penuh, Indonesia",0,564,5.913,15.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000jcbz
+us1000jccx,2019-03-08T15:06:12.620000+00:00,126.006,10.384,30.0,6.0,"40 km N of Santa Monica, Philippines",0,566,3.258,62.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us1000jccx
+us1000jkwi,2019-03-24T04:37:35.918000+00:00,126.3955,1.6601,45.0,6.1,"146 km NW of Ternate, Indonesia",0,573,4.624,2.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us1000jkwi
+us2000kbi1,2019-04-06T21:55:01.660000+00:00,125.0416,-6.8285,539.0,6.3,"197 km N of Likisá, Timor Leste",0,611,2.365,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us2000kbi1
+us700034xq,2019-04-12T11:40:49.363000+00:00,122.5798,-1.8146,15.46,6.8,"Sulawesi, Indonesia",0,717,6.36,11.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us700034xq
+us70003a63,2019-04-22T09:11:12.013000+00:00,120.5149,14.9538,21.84,6.1,"3 km WSW of San Francisco, Philippines",0,1158,7.078,620.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us70003a63
+us70003aj3,2019-04-23T05:37:53.147000+00:00,125.2013,11.7547,56.0,6.4,"17 km ESE of Tutubigan, Philippines",1,747,6.465,150.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us70003aj3
+us70003tl7,2019-05-31T10:12:32.876000+00:00,126.479,6.2795,98.72,6.1,"34 km ESE of Pondaguitan, Philippines",0,592,4.348,37.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us70003tl7
+us6000434e,2019-06-19T17:24:48.803000+00:00,138.461,-2.2656,10.0,6.3,"244 km W of Abepura, Indonesia",0,611,6.647,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000434e
+us600044z4,2019-06-24T01:05:29.464000+00:00,138.5675,-2.7756,28.0,6.1,"230 km W of Abepura, Indonesia",0,577,6.042,7.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us600044z4
+us600044zz,2019-06-24T02:53:39.830000+00:00,129.1692,-6.4078,212.0,7.3,Banda Sea,1,941,5.64,295.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us600044zz
+us70004dz3,2019-07-07T15:08:40.525000+00:00,126.1892,0.5126,35.0,6.9,"136 km WSW of Ternate, Indonesia",0,747,4.962,21.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us70004dz3
+us70004jyv,2019-07-14T09:10:51.523000+00:00,128.034,-0.5858,18.98,7.2,"155 km SSE of Sofifi, Indonesia",0,809,6.81,17.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us70004jyv
+us60004zhq,2019-08-02T12:03:27.001000+00:00,104.7907,-7.2822,49.0,6.9,"152 km SW of Labuan, Indonesia",0,882,5.676,332.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us60004zhq
+us60005kta,2019-09-19T07:06:33.291000+00:00,111.8422,-6.0708,610.0,6.1,"81 km NNE of Lasem, Indonesia",0,604,1.475,103.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us60005kta
+us70005lfd,2019-09-25T23:46:43.543000+00:00,128.3699,-3.4528,12.26,6.5,"33 km NE of Ambon, Indonesia",0,656,6.918,8.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us70005lfd
+us70005nbb,2019-09-29T02:02:51.883000+00:00,126.5481,5.6756,73.0,6.2,"86 km SSE of Pondaguitan, Philippines",0,612,4.232,33.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us70005nbb
+us70005ulm,2019-10-16T11:37:06.342000+00:00,125.007,6.7147,16.12,6.4,"7 km ENE of Columbio, Philippines",1,784,7.552,163.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us70005ulm
+us6000645n,2019-10-29T01:04:43.879000+00:00,125.0082,6.7567,15.0,6.6,"10 km NE of Columbio, Philippines",1,815,7.424,159.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000645n
+us700061e9,2019-10-31T01:11:19.146000+00:00,125.1782,6.9098,10.0,6.5,"2 km ENE of Bulatukan, Philippines",1,751,6.919,122.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us700061e9
+us60006bjl,2019-11-14T16:17:40.578000+00:00,126.4156,1.6213,33.0,7.1,"141 km NW of Ternate, Indonesia",1,799,6.459,41.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us60006bjl
+us60006bpw,2019-11-14T21:12:54.753000+00:00,126.4161,1.5361,23.0,6.0,"135 km NW of Ternate, Indonesia",0,554,5.32,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us60006bpw
+us70006c6w,2019-11-23T12:11:15.564000+00:00,132.8148,1.6436,5.0,6.2,"241 km SE of Tobi Village, Palau",0,591,3.221,0.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us70006c6w
+us60006rp9,2019-12-15T06:11:51.155000+00:00,125.1739,6.6969,18.0,6.8,"7 km S of Magsaysay, Philippines",1,877,7.134,186.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us60006rp9
+us70006vkq,2020-01-07T06:05:19.759000+00:00,96.3575,2.3481,17.0,6.3,"14 km S of Sinabang, Indonesia",0,619,6.331,13.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us70006vkq
+us60007a3h,2020-01-18T16:38:14.301000+00:00,139.3363,-2.8405,44.0,6.0,"146 km W of Abepura, Indonesia",0,555,5.514,3.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us60007a3h
+us60007arp,2020-01-19T16:58:20.002000+00:00,123.8025,-0.1042,121.72,6.1,"108 km SE of Gorontalo, Indonesia",0,574,4.239,4.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us60007arp
+us70007j6z,2020-02-05T18:12:37.734000+00:00,113.0778,-6.0817,592.42,6.2,"113 km NNE of Bangkalan, Indonesia",0,598,1.488,20.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us70007j6z
+us70007jwn,2020-02-06T13:40:05.791000+00:00,126.5692,5.4543,19.0,6.0,"109 km SSE of Pondaguitan, Philippines",0,558,3.94,9.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us70007jwn
+us600084gu,2020-02-26T07:33:12.952000+00:00,131.1196,-7.4887,54.0,6.0,"273 km SW of Tual, Indonesia",0,563,5.332,19.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us600084gu
+us60008hzl,2020-03-18T17:45:39.299000+00:00,115.1378,-11.0521,20.68,6.2,"249 km S of Nusa Dua, Indonesia",0,681,0.0,154.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us60008hzl
+us70008ghw,2020-03-26T15:38:04.089000+00:00,125.0521,5.5669,59.0,6.1,"27 km SW of Burias, Philippines",0,593,5.638,33.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us70008ghw
+us70008peg,2020-04-05T18:37:10.876000+00:00,126.4381,1.395,42.0,6.0,"124 km WNW of Ternate, Indonesia",0,555,5.152,4.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us70008peg
+us70009b14,2020-05-06T13:53:55.940000+00:00,129.7852,-6.7761,96.0,6.8,Banda Sea,0,738,6.362,62.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us70009b14
+us6000a5r3,2020-06-04T08:49:40.397000+00:00,128.248,2.911,112.86,6.4,"133 km NNE of Tobelo, Indonesia",1,635,5.113,10.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000a5r3
+us6000ah1z,2020-06-23T07:43:29.219000+00:00,123.7866,0.0368,109.0,6.0,"97 km SE of Gorontalo, Indonesia",0,554,4.296,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000ah1z
+us7000aixy,2020-07-06T18:16:18.418000+00:00,140.2476,12.0809,10.0,6.2,"257 km N of Fais, Micronesia",0,591,3.081,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000aixy
+us7000aj3w,2020-07-06T22:54:47.538000+00:00,110.6893,-5.6023,533.76,6.6,Java Sea,0,684,2.453,32.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000aj3w
+us7000aqaw,2020-07-17T14:03:40.437000+00:00,94.9362,11.8485,10.0,6.1,"239 km E of Port Blair, India",0,573,0.0,4.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000aqaw
+us6000b80p,2020-08-01T17:09:01.952000+00:00,124.1331,7.2932,483.0,6.4,"11 km SW of Polloc, Philippines",0,633,2.849,6.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000b80p
+us6000bgbr,2020-08-18T00:03:48.566000+00:00,124.1272,12.0257,10.0,6.6,"13 km E of San Pedro, Philippines",1,784,8.308,128.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000bgbr
+us6000bgvl,2020-08-18T22:23:59.497000+00:00,101.1347,-4.3217,22.0,6.8,"138 km WSW of Bengkulu, Indonesia",0,716,4.175,10.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000bgvl
+us6000bgvu,2020-08-18T22:29:24.731000+00:00,101.2411,-4.2069,26.0,6.9,"122 km WSW of Bengkulu, Indonesia",0,736,4.414,8.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000bgvu
+us6000bi4p,2020-08-21T04:09:51.930000+00:00,123.4649,-6.71,624.0,6.9,"222 km SSE of Katabu, Indonesia",0,749,2.756,38.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000bi4p
+us7000biyd,2020-09-06T15:23:43.148000+00:00,125.8285,6.2693,120.0,6.3,"17 km E of Talagutong, Philippines",1,631,4.468,37.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000biyd
+us7000cfes,2020-11-15T22:37:43.690000+00:00,126.2914,8.7572,43.0,6.0,"5 km S of Marihatag, Philippines",0,567,5.466,22.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000cfes
+us7000cfxq,2020-11-17T01:44:11.421000+00:00,99.3227,-2.6706,19.0,6.0,"222 km SSW of Padang, Indonesia",0,554,4.293,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000cfxq
+us7000crdx,2020-12-15T23:21:57.807000+00:00,125.4212,5.1789,14.0,6.1,"25 km S of Sarangani, Philippines",0,584,5.791,17.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000crdx
+us6000d29t,2020-12-23T18:11:47.762000+00:00,133.6362,6.2544,11.0,6.1,"90 km SW of Angaur State, Palau",0,582,4.49,20.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000d29t
+us6000d2ra,2020-12-24T23:43:41.964000+00:00,120.6539,13.82,109.0,6.3,"2 km ESE of Calatagan, Philippines",1,792,5.231,283.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000d2ra
+us6000d69r,2021-01-06T20:59:34.315000+00:00,122.9487,0.0658,148.0,6.1,"53 km SSW of Gorontalo, Indonesia",0,573,4.096,3.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000d69r
+us7000d030,2021-01-14T18:28:18.093000+00:00,118.8899,-2.9717,18.0,6.2,"32 km S of Mamuju, Indonesia",0,600,7.034,16.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000d030
+us7000d20e,2021-01-21T12:23:04.255000+00:00,127.5145,4.9931,80.0,7.0,"211 km SE of Pondaguitan, Philippines",1,802,5.451,75.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000d20e
+us6000df9r,2021-02-07T04:22:56.667000+00:00,125.1011,6.7693,16.0,6.0,"9 km W of Magsaysay, Philippines",0,609,7.457,77.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000df9r
+us6000dg70,2021-02-10T12:52:27.224000+00:00,101.6495,-5.6856,10.0,6.3,"219 km SSW of Bengkulu, Indonesia",0,611,4.373,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000dg70
+us6000e0iy,2021-04-10T07:00:15.485000+00:00,112.5054,-8.5707,67.0,6.0,"45 km S of Sumberpucung, Indonesia",0,643,5.362,126.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000e0iy
+us6000e0k5,2021-04-10T09:30:43.306000+00:00,124.6443,4.1322,300.0,6.1,"167 km SSW of Sarangani, Philippines",0,574,3.316,4.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000e0k5
+us6000e30x,2021-04-19T23:58:22.503000+00:00,96.5601,0.1831,9.0,6.1,"254 km S of Sinabang, Indonesia",0,575,4.092,3.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000e30x
+us7000e2zt,2021-05-14T06:33:07.879000+00:00,96.6442,0.1364,11.0,6.7,"260 km S of Sinabang, Indonesia",0,698,4.411,9.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000e2zt
+us7000e9bi,2021-06-03T10:09:58.295000+00:00,126.2911,0.3165,26.0,6.2,"132 km WSW of Ternate, Indonesia",0,593,3.847,3.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000e9bi
+us6000etxj,2021-07-10T00:43:55.986000+00:00,126.4984,2.9494,44.33,6.1,"215 km NW of Tobelo, Indonesia",0,572,3.741,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000etxj
+us6000eyfk,2021-07-23T20:48:57.357000+00:00,120.7259,13.7047,110.0,6.7,"15 km S of Hukay, Philippines",1,935,5.036,317.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000eyfk
+us6000ez5x,2021-07-26T12:09:06.655000+00:00,121.9083,-0.7679,11.0,6.3,"99 km WNW of Luwuk, Indonesia",1,618,6.472,9.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000ez5x
+us6000f1ea,2021-08-02T05:01:19.974000+00:00,133.958,-4.499,10.0,6.0,"182 km NE of Tual, Indonesia",0,555,4.43,3.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1ea
+us6000f1r4,2021-08-03T03:42:38.345000+00:00,94.0192,8.8809,10.0,6.1,"Nicobar Islands, India region",0,576,4.055,9.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1r4
+us6000f48v,2021-08-11T17:46:13.143000+00:00,126.7151,6.4748,55.14,7.1,"60 km ENE of Pondaguitan, Philippines",1,915,6.777,153.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000f48v
+us7000fqjc,2021-11-01T17:04:16.557000+00:00,96.709,0.2081,8.0,6.0,"253 km S of Sinabang, Indonesia",0,557,4.111,8.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000fqjc
+us7000fs08,2021-11-06T14:37:36.731000+00:00,124.2812,-0.0451,34.0,6.0,"150 km ESE of Gorontalo, Indonesia",0,559,4.293,9.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000fs08
+us7000ft0f,2021-11-10T17:46:40.379000+00:00,134.1805,-4.3244,10.0,6.0,"181 km SW of Nabire, Indonesia",0,554,5.418,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000ft0f
+us6000g944,2021-12-04T23:47:55.581000+00:00,128.1359,4.0932,149.0,6.0,"261 km N of Tobelo, Indonesia",0,554,3.614,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000g944
+us6000gc2a,2021-12-14T03:20:23.809000+00:00,122.2274,-7.6033,14.27,7.3,Flores Sea,1,854,5.361,38.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000gc2a
+us7000g7lx,2021-12-29T18:25:51.962000+00:00,127.5773,-7.5482,165.49,7.3,"125 km NNE of Lospalos, Timor Leste",0,921,6.966,127.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000g7lx
+us7000g90c,2022-01-04T20:55:46.858000+00:00,125.0808,-4.8065,544.0,6.0,"284 km E of Katabu, Indonesia",0,554,1.989,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000g90c
+us7000gbu4,2022-01-14T09:05:41.461000+00:00,105.2887,-6.86,33.0,6.6,"80 km SW of Labuan, Indonesia",0,791,6.2,157.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000gbu4
+us7000ge38,2022-01-22T02:26:13.323000+00:00,126.6596,3.6724,21.0,6.0,"232 km SE of Sarangani, Philippines",0,557,5.849,7.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000ge38
+us7000gh1g,2022-02-01T19:25:10.031000+00:00,128.3132,-7.483,119.0,6.0,"184 km NE of Lospalos, Timor Leste",0,561,4.374,10.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000gh1g
+us7000gklv,2022-02-13T20:29:46.350000+00:00,144.2842,11.7884,15.0,6.0,"168 km SSW of Merizo Village, Guam",0,555,3.446,4.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000gklv
+us6000gzyg,2022-02-25T01:39:26.554000+00:00,100.1006,0.219,4.0,6.1,"65 km NNW of Bukittinggi, Indonesia",0,749,6.93,218.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000gzyg
+us6000h48d,2022-03-13T21:05:49.469000+00:00,119.3811,14.096,11.0,6.4,"75 km WNW of Cabra, Philippines",1,699,4.297,107.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000h48d
+us6000h48e,2022-03-13T21:09:22.258000+00:00,98.6259,-0.6294,28.0,6.7,"166 km W of Pariaman, Indonesia",0,708,6.483,20.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000h48e
+us7000h373,2022-04-19T01:23:07.057000+00:00,126.9533,7.2852,19.0,6.1,"41 km E of Santiago, Philippines",0,584,5.111,19.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000h373
+us6000hf49,2022-04-20T21:57:43.018000+00:00,126.9241,6.9686,19.0,6.0,"50 km ESE of Manay, Philippines",0,562,5.162,11.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000hf49
+us7000h781,2022-05-05T08:21:15.666000+00:00,127.1315,6.5295,18.0,6.0,"94 km SE of Lukatan, Philippines",0,560,3.979,13.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000h781
+us6000hmz8,2022-05-21T21:50:48.047000+00:00,120.6494,14.0187,129.0,6.1,"1 km S of Lian, Philippines",0,606,4.631,53.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000hmz8
+us7000hcwg,2022-05-27T02:36:05.556000+00:00,127.2079,-8.2572,49.0,6.2,"37 km NE of Lospalos, Timor Leste",0,605,5.914,23.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000hcwg
+us6000id0t,2022-08-23T14:31:39.374000+00:00,103.079,-5.0926,45.258,6.2,"119 km S of Pagar Alam, Indonesia",0,622,4.509,55.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000id0t
+us7000i38s,2022-08-29T03:29:13.691000+00:00,98.6046,-0.988,17.0,6.2,"173 km WSW of Pariaman, Indonesia",0,596,6.494,9.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000i38s
+us6000iika,2022-09-09T23:31:47.409000+00:00,138.1979,-2.2492,18.0,6.2,"Papua, Indonesia",0,591,6.966,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000iika
+us6000iikp,2022-09-10T00:05:12.947000+00:00,138.1784,-2.2313,21.0,6.2,"260 km ESE of Biak, Indonesia",0,591,6.925,0.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000iikp
+us6000iisb,2022-09-10T23:10:43.721000+00:00,98.654,-1.149,20.0,6.0,"173 km WSW of Pariaman, Indonesia",0,554,6.362,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000iisb
+us7000iaka,2022-09-23T20:52:58.398000+00:00,96.0514,3.8109,42.181,6.2,"37 km SSW of Meulaboh, Indonesia",0,598,4.835,15.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000iaka
+us7000iqpn,2022-11-18T13:37:08.687000+00:00,100.7862,-4.9043,25.0,6.9,"204 km SW of Bengkulu, Indonesia",0,735,4.216,8.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000iqpn
+us7000j36j,2023-01-09T17:47:35.037000+00:00,130.009,-7.0586,104.95,7.6,"Pulau Pulau Tanimbar, Indonesia",0,957,7.212,131.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000j36j
+us7000j4kr,2023-01-15T22:29:58.940000+00:00,97.9979,1.9837,37.0,6.1,"40 km SE of Singkil, Indonesia",0,576,5.062,9.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000j4kr
+us7000j511,2023-01-18T00:34:45.151000+00:00,123.1998,-0.0116,154.0,6.0,"62 km SSE of Gorontalo, Indonesia",0,554,4.133,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000j511
+us7000j553,2023-01-18T06:06:11.454000+00:00,127.0221,2.7306,29.708,7.0,"156 km NW of Tobelo, Indonesia",1,757,5.341,9.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000j553
+us6000jkpr,2023-02-01T10:44:46.067000+00:00,126.0566,7.7431,19.0,6.0,"1 km NW of Babag, Philippines",0,657,6.996,131.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000jkpr
+us6000jp76,2023-02-15T18:10:08.107000+00:00,123.8605,12.3099,8.0,6.1,"9 km NNE of Miaga, Philippines",0,615,7.388,55.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000jp76
+us6000jpl7,2023-02-17T09:37:34.656000+00:00,132.106,-6.6176,39.742,6.1,"130 km SSW of Tual, Indonesia",0,575,4.665,8.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000jpl7
+us6000jr32,2023-02-23T20:02:47.541000+00:00,128.1356,3.2796,92.0,6.3,"172 km N of Tobelo, Indonesia",0,613,4.564,7.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000jr32
+us6000k1id,2023-04-02T18:04:11.261000+00:00,143.1658,-4.3229,70.0,7.0,"40 km ESE of Ambunti, Papua New Guinea",1,812,7.041,77.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1id
+us6000k1qa,2023-04-03T14:59:41.845000+00:00,98.835,0.8388,84.0,6.1,"77 km SW of Padangsidempuan, Indonesia",0,583,5.169,20.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1qa
+us6000k1x2,2023-04-04T12:54:31.503000+00:00,125.5376,13.7318,10.0,6.2,"124 km E of Gigmoto, Philippines",0,596,4.157,10.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1x2
+us6000k49j,2023-04-14T09:55:45.220000+00:00,112.0478,-6.0413,597.0,7.0,"Java, Indonesia",0,827,2.78,133.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000k49j
+us6000k6ai,2023-04-22T08:23:42.033000+00:00,125.585,-5.2611,4.0,6.2,Banda Sea,0,592,3.708,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000k6ai
+us7000jvl3,2023-04-24T20:00:57.265000+00:00,98.5112,-0.8082,34.0,7.1,"171 km SSE of Teluk Dalam, Indonesia",0,848,7.969,80.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000jvl3
+us7000k3h5,2023-05-24T15:49:34.402000+00:00,129.5293,-6.9484,158.0,6.2,Banda Sea,0,602,4.302,27.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000k3h5
+us7000k8jz,2023-06-15T02:19:23.272000+00:00,120.7203,13.7629,112.0,6.2,"Mindoro, Philippines",0,719,4.954,209.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000k8jz
+us7000k9jv,2023-06-19T11:18:11.960000+00:00,144.8345,-4.4729,23.844,6.2,"96 km ESE of Angoram, Papua New Guinea",0,596,7.232,6.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000k9jv
+us7000krjx,2023-08-28T19:55:30.875000+00:00,116.5211,-6.7888,500.0,7.1,"180 km NNE of Gili Air, Indonesia",1,1077,3.772,629.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000krjx
+us7000kulj,2023-09-09T14:43:24.563000+00:00,119.7663,0.0018,13.0,6.0,"101 km N of Palu, Indonesia",0,555,6.826,2.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000kulj
+us7000kv0k,2023-09-11T12:51:33.104000+00:00,127.4888,1.1246,151.0,6.0,"38 km NNE of Ternate, Indonesia",0,557,4.212,7.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000kv0k
+us6000lcri,2023-10-04T11:21:47.730000+00:00,126.0438,5.3171,113.0,6.4,"65 km E of Sarangani, Philippines",0,654,4.983,45.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000lcri
+us7000l85t,2023-11-01T21:04:48.023000+00:00,123.7541,-10.0561,51.0,6.1,"20 km NE of Kupang, Indonesia",0,579,5.785,8.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000l85t
+us7000l9h2,2023-11-08T04:52:51.393000+00:00,129.7518,-6.4442,10.0,6.7,Banda Sea,1,692,5.547,2.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9h2
+us7000l9h4,2023-11-08T04:53:49.631000+00:00,129.5466,-6.416,6.0,7.1,Banda Sea,0,779,6.035,5.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9h4
+us7000l9ku,2023-11-08T13:02:06.115000+00:00,129.8738,-6.131,10.0,6.7,Banda Sea,0,692,5.682,2.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9ku
+us7000la7r,2023-11-10T20:45:11.772000+00:00,130.0606,-6.0976,9.969,6.1,Banda Sea,0,572,5.24,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000la7r
+us6000lp12,2023-11-17T08:14:10.513000+00:00,125.0013,5.5627,52.0,6.7,"32 km SW of Kablalan, Philippines",1,876,8.129,215.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000lp12
+us6000lpyx,2023-11-22T02:48:51.641000+00:00,127.1887,1.7827,102.0,6.0,"91 km W of Tobelo, Indonesia",0,554,4.594,3.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000lpyx
+us7000le6w,2023-11-27T21:46:42.183000+00:00,144.0313,-3.5605,10.0,6.5,"44 km E of Wewak, Papua New Guinea",1,654,6.777,8.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000le6w
+us7000lff4,2023-12-02T14:37:04.454000+00:00,126.4161,8.5266,40.0,7.6,"19 km E of Gamut, Philippines",1,1432,7.184,597.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000lff4
+us7000lfi0,2023-12-02T16:03:41.167000+00:00,126.757,8.4377,35.0,6.4,"47 km NE of Barcelona, Philippines",1,643,5.734,19.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfi0
+us7000lfjr,2023-12-02T17:40:15.233000+00:00,126.722,8.423,36.091,6.1,"41 km NE of Barcelona, Philippines",0,579,5.098,10.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfjr
+us7000lfkh,2023-12-02T18:09:25.972000+00:00,126.9387,8.4402,46.378,6.3,"63 km ENE of Barcelona, Philippines",0,612,4.9,3.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfkh
+us7000lgan,2023-12-02T20:52:15.877000+00:00,126.7782,8.4475,9.0,6.0,"49 km NE of Barcelona, Philippines",0,554,4.831,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000lgan
+us7000lftp,2023-12-03T10:35:52.871000+00:00,126.7454,8.488,19.0,6.6,"47 km ENE of Hinatuan, Philippines",1,714,5.991,59.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000lftp
+us7000lfwj,2023-12-03T14:35:56.830000+00:00,126.823,8.732,13.0,6.0,"58 km E of Marihatag, Philippines",0,555,4.383,3.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfwj
+us7000lfxx,2023-12-03T19:49:35.739000+00:00,126.6121,8.9705,20.0,6.9,"34 km ENE of Aras-asan, Philippines",1,806,6.393,95.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfxx
+us6000m0n6,2023-12-30T17:16:23.833000+00:00,139.372,-2.9934,33.0,6.3,"146 km WSW of Abepura, Indonesia",1,612,5.841,3.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0n6
+us6000m2jp,2024-01-08T20:48:42.361000+00:00,126.1575,4.9225,62.574,6.7,"93 km SE of Sarangani, Philippines",1,702,5.599,24.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000m2jp
+us7000lz5f,2024-02-14T11:40:22.125000+00:00,138.5725,11.0047,14.0,6.0,"171 km NNE of Colonia, Micronesia",0,554,3.817,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000lz5f
+us7000m439,2024-03-08T09:11:45.110000+00:00,126.9407,5.8168,115.0,6.0,"103 km SE of Pondaguitan, Philippines",0,556,4.157,7.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000m439
+us6000mkfz,2024-03-22T08:52:58.999000+00:00,112.3646,-5.8754,9.471,6.4,"110 km N of Paciran, Indonesia",0,736,7.923,99.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000mkfz
+us6000mksx,2024-03-23T20:22:04.348000+00:00,143.134,-4.1292,41.464,6.9,"36 km ENE of Ambunti, Papua New Guinea",1,756,7.234,29.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000mksx
+us7000maxr,2024-04-09T09:47:59.810000+00:00,127.0624,2.6982,22.0,6.4,"150 km NW of Tobelo, Indonesia",1,631,4.26,3.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000maxr
+us6000muc0,2024-04-27T16:29:50.643000+00:00,107.2798,-8.005,59.701,6.1,"91 km S of Banjar, Indonesia",0,654,4.966,106.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000muc0
+us6000mwjd,2024-05-05T18:33:11.021000+00:00,130.9618,-3.3167,16.0,6.1,"154 km WSW of Fakfak, Indonesia",0,581,5.781,10.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000mwjd
+us7000myfa,2024-07-11T02:13:18.585000+00:00,123.1503,6.0838,639.503,7.1,"106 km WSW of Sangay, Philippines",1,790,3.302,29.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000myfa
+us6000nhqc,2024-08-02T22:23:02.111000+00:00,126.6161,8.1851,32.0,6.8,"20 km E of Barcelona, Philippines",1,792,6.802,118.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhqc
+us6000nht0,2024-08-03T04:20:26.565000+00:00,126.8354,8.2038,15.0,6.3,"44 km E of Barcelona, Philippines",0,623,5.823,20.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000nht0
+us6000nps8,2024-09-05T01:03:15.672000+00:00,144.1953,-3.5428,7.0,6.2,"59 km NNE of Angoram, Papua New Guinea",0,592,6.208,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000nps8
+us6000ntxc,2024-09-23T19:51:02.568000+00:00,122.8918,-0.0469,143.0,6.0,"67 km SSW of Gorontalo, Indonesia",0,555,4.293,2.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000ntxc
+us7000nhex,2024-10-01T09:28:05.313000+00:00,124.8988,-5.9828,576.0,6.1,"260 km ESE of Baubau, Indonesia",0,573,2.291,3.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000nhex
+us6000pvgx,2025-02-25T22:55:45.917000+00:00,124.8407,0.3994,21.726,6.1,"45 km E of Modisi, Indonesia",0,573,5.546,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000pvgx
+us6000py97,2025-03-12T05:42:11.676000+00:00,92.5548,6.9701,23.0,6.0,"Nicobar Islands, India region",0,554,3.876,,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000py97
+us7000pu62,2025-04-22T10:17:11.888000+00:00,127.831,4.5538,104.0,6.2,"271 km SE of Pondaguitan, Philippines",0,594,4.11,8.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000pu62
+us7000q0bm,2025-05-20T15:05:59.387000+00:00,144.8116,-3.7575,16.819,6.5,"89 km ENE of Angoram, Papua New Guinea",1,662,7.531,16.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000q0bm
+us7000q8bd,2025-06-24T01:58:06.248000+00:00,129.9606,7.9765,10.0,6.2,east of the Philippine Islands,0,596,0.0,14.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000q8bd
+us7000q97d,2025-06-27T23:07:10.371000+00:00,126.0425,5.2888,99.77,6.0,"65 km E of Sarangani, Philippines",0,594,5.092,64.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000q97d
+us7000qcik,2025-07-14T05:49:58.119000+00:00,131.2331,-6.2201,70.687,6.7,"180 km WSW of Tual, Indonesia",1,715,5.748,50.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qcik
+us6000qugg,2025-07-23T20:50:43.792000+00:00,122.0874,0.4411,142.0,6.3,"109 km W of Gorontalo, Indonesia",0,613,4.484,5.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000qugg
+us6000qvpp,2025-07-28T18:41:50.299000+00:00,93.0637,6.6907,21.0,6.4,"264 km WNW of Sabang, Indonesia",0,638,4.757,24.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000qvpp
+us6000r01m,2025-08-12T08:24:23.409000+00:00,138.966,-2.0302,14.0,6.3,"195 km WNW of Abepura, Indonesia",1,622,7.695,14.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r01m
+us7000qx1z,2025-09-18T18:19:49.220000+00:00,135.4658,-3.5961,28.0,6.0,"26 km S of Nabire, Indonesia",0,558,6.812,6.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qx1z
+us6000rdrz,2025-09-30T13:59:43.328000+00:00,124.111,11.1557,10.0,6.9,"8 km ESE of Calape, Philippines",1,1588,8.944,646.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000rdrz
+us6000rdta,2025-09-30T16:49:43.533000+00:00,114.1844,-7.2032,19.498,6.0,"31 km ESE of Kalianget, Indonesia",0,581,6.35,60.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000rdta
+us6000rfwz,2025-10-10T01:43:59.585000+00:00,126.6902,7.2866,59.425,7.4,"12 km E of Santiago, Philippines",1,1082,7.367,337.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000rfwz
+us6000rg2r,2025-10-10T11:12:05.407000+00:00,126.6578,7.2127,47.0,6.7,"12 km SE of Santiago, Philippines",1,742,6.351,74.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000rg2r
+us6000rgkr,2025-10-11T14:32:59.312000+00:00,126.323,8.9231,67.657,6.0,"3 km ESE of Bacolod, Philippines",0,573,5.093,36.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000rgkr
+us6000rhg5,2025-10-16T05:48:52.788000+00:00,138.9531,-2.168,18.0,6.4,"192 km WNW of Abepura, Indonesia",1,631,7.284,2.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000rhg5
+us6000rhns,2025-10-16T23:03:12.673000+00:00,126.1163,9.7909,32.0,6.0,"3 km N of Union, Philippines",0,567,6.221,26.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000rhns
+us6000rjkv,2025-10-26T17:04:25.617000+00:00,123.9887,-8.8524,75.0,6.2,"57 km NW of Pante Makasar, Timor Leste",0,595,5.286,10.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000rjkv
+us6000rjx3,2025-10-28T14:40:18.481000+00:00,129.9887,-6.7001,142.0,6.4,Banda Sea,0,635,4.304,17.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000rjx3
+us6000rlcd,2025-11-04T07:37:22.906000+00:00,143.1427,12.3924,65.0,6.0,"191 km WSW of Merizo Village, Guam",0,558,3.448,12.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000rlcd
+us7000re2g,2025-11-27T04:56:24.368000+00:00,95.9543,2.7191,17.0,6.4,"54 km WNW of Sinabang, Indonesia",0,635,6.779,7.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000re2g
+us7000rn2z,2026-01-07T03:02:53.890000+00:00,126.8953,7.2449,22.0,6.4,"35 km E of Santiago, Philippines",1,648,6.152,35.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000rn2z
+us7000rnwd,2026-01-10T14:58:23.726000+00:00,126.9922,3.7767,31.0,6.4,"247 km SE of Sarangani, Philippines",1,635,6.472,13.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000rnwd
+us6000sasz,2026-02-22T16:57:46.691000+00:00,116.2537,6.8201,629.0,7.0,"55 km NNW of Kota Belud, Malaysia",1,770,4.562,59.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sasz
+us7000s1ln,2026-03-03T04:56:45.857000+00:00,96.695,2.0076,18.0,6.2,"62 km SE of Sinabang, Indonesia",0,592,6.401,1.0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000s1ln
